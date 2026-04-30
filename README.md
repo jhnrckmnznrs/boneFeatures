@@ -60,7 +60,7 @@ These features are derived using variations of local Otsu thresholding methods.
   `sdpi{dimension}-{x_resolution}-{y_resolution}-{x_spread}-{y_spread}.csv`
 
 - **Parameters:**
-  - `dimension`: Homology dimension (e.g., 0, 1, etc.)
+  - `dimension`: Homology dimension (0, 1, or 2)
   - `x_resolution`, `y_resolution`: Image resolution
   - `x_spread`, `y_spread`: Gaussian spread parameters
 
